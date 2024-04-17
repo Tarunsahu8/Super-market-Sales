@@ -3,7 +3,7 @@
 <h3>Analyzing invoice details using Power BI</h3>
 <br>
 
-  <img src="Assests1/img.png" width=100/>
+  <img src="Assests1/img.png" width=2000/>
 
 * Utilized Python libraries for data analysis of sales data from a supermarket.
 
