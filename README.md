@@ -1,6 +1,6 @@
 # Super-market-Sales
 
-Utilized Python libraries for data analysis of sales data from a supermarket.
+* Utilized Python libraries for data analysis of sales data from a supermarket.
 
 Analyzed sales by gender, showing females as predominant buyers with higher spending.
 
