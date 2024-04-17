@@ -1,4 +1,9 @@
-# Super-market-Sales
+<h1>Power BI</h1>
+
+<h3>Analyzing invoice details using Power BI</h3>
+<br>
+
+  <img src="C:\Users\ss\OneDrive\Pictures\Screenshots" width=700 />
 
 * Utilized Python libraries for data analysis of sales data from a supermarket.
 
