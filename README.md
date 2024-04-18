@@ -1,6 +1,6 @@
-<h1>Power BI</h1>
+<h1> Super Market Sales | Python </h1>
 
-<h3>Analyzing invoice details using Power BI</h3>
+<h3>Analyzing Super Market Sales</h3>
 <br>
 
   <img src="Assests1/Img1.png" width=500 />
