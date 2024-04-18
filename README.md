@@ -2,8 +2,7 @@
 
 <h3>Analyzing Super Market Sales</h3>
 <br>
-
-  <img src="Assests1/Img1.png" width=500 />
+<img src="Assests1/Img1.png" width=500 />
 
 * Utilized Python libraries for data analysis of sales data from a supermarket.
 
